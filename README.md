@@ -1,6 +1,6 @@
 # 🔥Hi, I'm Joshua Ellis Enore
 
-  ⚡**Software Engineer | Fullstack Developer | CEO
+  ⚡Software Engineer(#) | Fullstack Developer(#) | CEO(#)
 
 ### 📝 About Me
 
