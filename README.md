@@ -8,7 +8,7 @@ I have helped countless businesses transform their operations and achieve succes
 
 |Position| Company | Description |
 |--------|--------|--------|
-| 🌐 [CEO]([https://koieibo.com/]) | Neuralcore Software Development | 37 Clients |
+| 🌐 [CEO](https://koieibo.com) | Neuralcore Software Development | 37 Clients |
 | 🌐 [Fullstack Developer](#) | Vite SEO | 6 Projects |
 | 🌐 [IT Consultant](#) | HR Primo Management | Nang gugulo Lagi |
  
